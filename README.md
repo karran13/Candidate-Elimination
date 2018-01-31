@@ -3,13 +3,13 @@ C++ implementation of the Candidate Elimination Algorithm
 
 Candidate Elimination was implemented on a dataset of animals with 16 features and 7 classes.
 
-Report
+**Report**
 
 The report contains the required general and specific boundaries for each class, along with specifying the classes for which the concept cannot be learnt. 
 
 Results for each class are as follows:
 
-Class 1:
+**Class 1:**
 
 Specific Boundary:
 
@@ -19,7 +19,7 @@ General Boundary:
 
 ? ? ? 1 ? ? ? ? ? ? ? ? ? ? ? ?
 
-Class 2:
+**Class 2:**
 
 Specific Boundary:
 
@@ -38,7 +38,7 @@ General Boundary:
 ? ? ? ? ? ? ? 0 ? ? ? ? 2 ? ? ?
 
 
-Class 3:
+**Class 3:**
 
 Concept cannot be learnt.
 
@@ -48,7 +48,7 @@ Concept cannot be learnt.
 
 
 
-Class 4:
+**Class 4:**
 
 Specific Boundary:
 
@@ -75,7 +75,7 @@ General Boundary:
 ? ? 1 ? ? 1 ? ? ? ? ? ? 0 1 ? ?
 
 
-Class 5:
+**Class 5:**
 
 Specific Boundary:
 
@@ -132,7 +132,7 @@ General Boundary:
 ? ? ? 0 ? 1 ? 1 ? ? ? ? 4 ? ? ?
 
 
-Class 6:
+**Class 6:**
 
 Specific Boundary:
 
@@ -145,7 +145,7 @@ General Boundary:
 ? ? ? ? ? ? ? ? ? 1 ? ? 6 ? ? ?
 
 
-Class 7:
+**Class 7:**
 
 Concept cannot be learnt.
 
